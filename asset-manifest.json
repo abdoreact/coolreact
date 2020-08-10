@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/coolreact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/coolreact/static/js/main.a5e3cd7f.chunk.js",
-    "main.js.map": "/coolreact/static/js/main.a5e3cd7f.chunk.js.map",
+    "main.js": "/coolreact/static/js/main.a6779986.chunk.js",
+    "main.js.map": "/coolreact/static/js/main.a6779986.chunk.js.map",
     "runtime-main.js": "/coolreact/static/js/runtime-main.6325809f.js",
     "runtime-main.js.map": "/coolreact/static/js/runtime-main.6325809f.js.map",
-    "static/js/2.4deb58ed.chunk.js": "/coolreact/static/js/2.4deb58ed.chunk.js",
-    "static/js/2.4deb58ed.chunk.js.map": "/coolreact/static/js/2.4deb58ed.chunk.js.map",
+    "static/js/2.35c4e199.chunk.js": "/coolreact/static/js/2.35c4e199.chunk.js",
+    "static/js/2.35c4e199.chunk.js.map": "/coolreact/static/js/2.35c4e199.chunk.js.map",
     "index.html": "/coolreact/index.html",
-    "precache-manifest.c61f2218dd9e404b359d6361295d8cce.js": "/coolreact/precache-manifest.c61f2218dd9e404b359d6361295d8cce.js",
+    "precache-manifest.db383e75ee82324ce570622a8375a267.js": "/coolreact/precache-manifest.db383e75ee82324ce570622a8375a267.js",
     "service-worker.js": "/coolreact/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/coolreact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4deb58ed.chunk.js.LICENSE.txt": "/coolreact/static/js/2.4deb58ed.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/coolreact/static/media/logo.5d5d9eef.svg"
+    "static/js/2.35c4e199.chunk.js.LICENSE.txt": "/coolreact/static/js/2.35c4e199.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6325809f.js",
-    "static/js/2.4deb58ed.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a5e3cd7f.chunk.js"
+    "static/js/2.35c4e199.chunk.js",
+    "static/js/main.a6779986.chunk.js"
   ]
 }
