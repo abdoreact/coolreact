@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/coolreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github.io/coolreact/static/js/main.775a0880.chunk.js",
+    "main.js.map": "/github.io/coolreact/static/js/main.775a0880.chunk.js.map",
+    "runtime-main.js": "/github.io/coolreact/static/js/runtime-main.a3f75ed3.js",
+    "runtime-main.js.map": "/github.io/coolreact/static/js/runtime-main.a3f75ed3.js.map",
+    "static/js/2.4deb58ed.chunk.js": "/github.io/coolreact/static/js/2.4deb58ed.chunk.js",
+    "static/js/2.4deb58ed.chunk.js.map": "/github.io/coolreact/static/js/2.4deb58ed.chunk.js.map",
+    "index.html": "/github.io/coolreact/index.html",
+    "precache-manifest.b6c12a9f6a670b23de5b5f3a69e64a45.js": "/github.io/coolreact/precache-manifest.b6c12a9f6a670b23de5b5f3a69e64a45.js",
+    "service-worker.js": "/github.io/coolreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github.io/coolreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4deb58ed.chunk.js.LICENSE.txt": "/github.io/coolreact/static/js/2.4deb58ed.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/coolreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3f75ed3.js",
+    "static/js/2.4deb58ed.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.775a0880.chunk.js"
+  ]
+}
