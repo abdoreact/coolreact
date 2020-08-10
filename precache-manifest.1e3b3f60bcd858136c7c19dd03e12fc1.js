@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87c696cb356aa55b0e430b1af29cf146",
+    "revision": "2440ec6b9b87ccc13318890dc7804eab",
     "url": "/coolreact/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coolreact/static/js/2.97fb6823.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f51bed41952f5681388e",
-    "url": "/coolreact/static/js/main.861f6b07.chunk.js"
+    "revision": "4f36e6ae82901e14dcd8",
+    "url": "/coolreact/static/js/main.4549fe6d.chunk.js"
   },
   {
     "revision": "23061a762634f68b6910",
